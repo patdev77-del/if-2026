@@ -9,6 +9,6 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url)),
     },
   },
-  // TODO: replace 'informatica-vue-2026' with your GitHub repo name
-  base: '/informatica-vue-2026/',
+  // TODO: replace 'if-2026' with your GitHub repo name
+  base: '/if-2026/',
 });
